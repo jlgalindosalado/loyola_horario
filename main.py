@@ -75,30 +75,40 @@ def create_ics():
     # Loop through each event in JSON data and add it to the calendar
     for item in events_data:
         event = Event()
-        event.name = item.get('title', 'No Title')  # Default title if missing
+        event.name = item.get('title', 'No Title')
         
-        # Handle 'start' and 'end' times, if available
+        # Start and end time if available
         start_time = item.get('start')
         end_time = item.get('end')
         
-        # Only set the event's start and end times if they are present
         if start_time:
             event.begin = datetime.fromisoformat(start_time.replace("Z", "+00:00"))
         if end_time:
             event.end = datetime.fromisoformat(end_time.replace("Z", "+00:00"))
 
-        # Optional fields
-        event.description = item.get('extendedProps', {}).get('descripcion', '')
+        # Additional fields for event description
+        extended_props = item.get('extendedProps', {})
+        descripcion = extended_props.get('descripcion', 'No description')
+        profesor = extended_props.get('profesor', 'No professor')
+        obs = extended_props.get('obs', False)
+        examen = extended_props.get('examen', False)
+        
+        # Add details to the event's description field
+        details = f"Description: {descripcion}\nProfessor: {profesor}\nObservations: {obs}\nExam: {examen}"
+        event.description = details
+        
+        # Set location if available in the title
         location_info = item.get('title', '').split("Aula: ")
         event.location = location_info[-1].strip() if len(location_info) > 1 else 'No Location'
         
+        # Add event to calendar
         calendar.events.add(event)
 
-    # Save the calendar to a .ics file
+    # Save the calendar to an .ics file
     with open('calendario.ics', 'w', encoding='utf-8') as f:
         f.writelines(calendar)
 
-    print("ICS file created successfully!")
+    print("ICS file created successfully with detailed information!")
 
 events = load_json("eventos_calendario.json")
 create_ics()
