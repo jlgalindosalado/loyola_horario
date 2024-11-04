@@ -109,6 +109,7 @@ def create_ics():
         f.writelines(calendar)
 
     print("ICS file created successfully with detailed information!")
-
+    
+get_json()
 events = load_json("eventos_calendario.json")
 create_ics()
