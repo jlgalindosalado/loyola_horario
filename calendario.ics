@@ -2,75 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20240911T000000Z
-SUMMARY:Acto de Apertura Curso 2024-2025
-UID:78bec900-1da6-4770-a1cf-a67b105ca372@78be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Alvarado Barrios\, Lázaro\nObservations: False\nExam: False
-DTEND:20241017T190000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241017T170000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:8e84e848-b3d2-487b-8059-cbf54ff8a604@8e84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: García Quintanilla\, Jordi\nObservations: False\nExam: False
-DTEND:20250122T193000Z
-LOCATION:Virtual (Virtual - Campus Sevilla)
-DTSTART:20250122T153000Z
-SUMMARY:Entornos Virtuales - Grupo  - Grupo A / Aula: Virtual (Virtual - Campus Sevilla) 
-UID:ea263506-bea1-489c-a840-41ffe2b7a5d8@ea26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Risquez Aguilar\, Carlos José\nObservations: False\nExam: False
-DTEND:20241126T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241126T153000Z
-SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:0f0e8bf3-ae3f-400a-adc9-79c39cec0985@0f0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250624T180000Z
-LOCATION:No Location
-DTSTART:20250624T160000Z
-SUMMARY:Examen de Visualización de datos en aulas  - (Tipo Trabajo)
-UID:807709be-3289-4964-934c-2152b5c346ff@8077.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
-DTEND:20250422T190000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250422T160000Z
-SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:ec8b894d-9252-4028-9d72-084d370a5f16@ec8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
-DTEND:20241128T193000Z
-LOCATION:Aula D1.01 (Edificio D - Campus Sevilla)
-DTSTART:20241128T153000Z
-SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula D1.01 (Edificio D - Campus Sevilla) 
-UID:41f2852e-2c0c-41fd-af4b-c564eaa6428f@41f2.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Podadera Valenzuela\, Manuel\nObservations: False\nExam: False
 DTEND:20241031T180000Z
 LOCATION:Aula C2.04 (Edificio Central - Campus Sevilla)
 DTSTART:20241031T140000Z
 SUMMARY:Visualización de datos - Grupo  - Grupo A / Aula: Aula C2.04 (Edificio Central - Campus Sevilla) 
-UID:003c6e13-e711-4bdb-9600-ad3d91d68609@003c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Reina Luque\, Juan Antonio\nObservations: False\nExam: False
-DTEND:20241112T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241112T153000Z
-SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:cd1825da-f55d-4f9f-8dec-585d13ddf3f6@cd18.org
+UID:9f20c7a0-596c-4d5b-9f55-e97e71d84db1@9f20.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
@@ -78,702 +15,7 @@ DTEND:20250204T180000Z
 LOCATION:No Location
 DTSTART:20250204T150000Z
 SUMMARY:Examen de Financiación de la Actividad Industrial y Tecnológica en aulas  - (Tipo Trabajo)
-UID:110798b7-19ed-41ce-b68b-4d63bb471c42@1107.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250703T183000Z
-LOCATION:No Location
-DTSTART:20250703T163000Z
-SUMMARY:Examen de Ingeniería del Transporte y Manutención Industrial en aulas  - (Tipo Escrito)
-UID:08e3a4d5-323c-4481-bc28-ddbf5cab0289@08e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250203T183000Z
-LOCATION:No Location
-DTSTART:20250203T153000Z
-SUMMARY:Examen de Organización Industrial y Gestión de la Calidad en aulas  - (Tipo Escrito-Práctico)
-UID:53cf9d54-4ab8-45dd-81cd-0dc7d71d2937@53cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Gómez García\, Emilio Álvaro\nObservations: False\nExam: False
-DTEND:20240928T120000Z
-LOCATION:Aula C2.05 (Edificio Central - Campus Sevilla)
-DTSTART:20240928T080000Z
-SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula C2.05 (Edificio Central - Campus Sevilla) 
-UID:05b6b861-0ce8-4bf2-8216-c55ba45b17b8@05b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20250228T000000Z
-SUMMARY:Día de Andalucía - Fiesta Autonómica
-UID:c786c205-4f23-400d-95c2-e66f4ceba977@c786.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
-DTEND:20240912T170000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240912T150000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:0c0a6673-647d-4f61-8971-870200116f89@0c0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
-DTEND:20250312T200000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250312T170000Z
-SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:12e464e8-dee6-45f8-a1f9-4f9ad96dbc24@12e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20241208T000000Z
-SUMMARY:Festividad de la Inmaculada Concepción - Fiesta Autonómica
-UID:4cb300d5-f91d-4b9f-9e23-205c63c36b2a@4cb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
-DTEND:20250304T200000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250304T170000Z
-SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:85426b07-249b-4da5-a575-2ee4e663bf16@8542.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bocanegra Carme\, Rodrigo\nObservations: False\nExam: False
-DTEND:20240923T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240923T143000Z
-SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:92e622ec-b0b6-422e-9e21-c46b6bbc8f8d@92e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20241101T000000Z
-SUMMARY:Festividad de Todos los Santos - Fiesta Nacional
-UID:aba893fd-4158-4442-9349-11927d808401@aba8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Alvarado Barrios\, Lázaro\nObservations: False\nExam: False
-DTEND:20241010T190000Z
-LOCATION:Aula Informática E1.08 (Edificio E - Campus Sevilla)
-DTSTART:20241010T170000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula Informática E1.08 (Edificio E - Campus Sevilla) 
-UID:b3d31ac7-3fa6-4cdc-b55e-954dc475b36a@b3d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250130T170000Z
-LOCATION:No Location
-DTSTART:20250130T150000Z
-SUMMARY:Examen de Innovación y Emprendimiento en aulas  - (Tipo Escrito-Práctico)
-UID:40ad6f28-776e-4026-b99f-48b275ac66c7@40ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Risquez Aguilar\, Carlos José\nObservations: False\nExam: False
-DTEND:20250114T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20250114T153000Z
-SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:d03e14c7-305c-4eb2-bb5b-c8b08110d21f@d03e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
-DTEND:20240913T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240913T143000Z
-SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:a1f87ff3-f6c2-46e1-8e6a-a5cacdc5c941@a1f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
-DTEND:20250225T200000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250225T170000Z
-SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:a9689ae3-b08e-4815-91b0-97c34e876518@a968.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Gómez García\, Emilio Álvaro\nObservations: False\nExam: False
-DTEND:20240925T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240925T143000Z
-SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:9df5103f-0c38-4bc4-b2bf-1ea4cd7873f6@9df5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Alvarado Barrios\, Lázaro\nObservations: False\nExam: False
-DTEND:20241024T190000Z
-LOCATION:Aula Informática E1.08 (Edificio E - Campus Sevilla)
-DTSTART:20241024T170000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula Informática E1.08 (Edificio E - Campus Sevilla) 
-UID:320f6779-f700-4395-8ec7-ce5b75e510f7@320f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Podadera Valenzuela\, Manuel\nObservations: False\nExam: False
-DTEND:20241204T193000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20241204T153000Z
-SUMMARY:Visualización de datos - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:eaf25b0f-d7cf-43fe-8f2c-c87a46682f73@eaf2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
-DTEND:20250109T193000Z
-LOCATION:Aula C2.07 (Edificio Central - Campus Sevilla)
-DTSTART:20250109T153000Z
-SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula C2.07 (Edificio Central - Campus Sevilla) 
-UID:fa9588e2-edfd-44ce-8de6-cdd883e11c6f@fa95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: García Quintanilla\, Jordi\nObservations: False\nExam: False
-DTEND:20250110T193000Z
-LOCATION:Aula C2.07 (Edificio Central - Campus Sevilla)
-DTSTART:20250110T153000Z
-SUMMARY:Entornos Virtuales - Grupo  - Grupo A / Aula: Aula C2.07 (Edificio Central - Campus Sevilla) 
-UID:5aedea86-c7d5-4f42-a36c-720ce7219e16@5aed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
-DTEND:20241216T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241216T153000Z
-SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:c7f498f4-71fb-49d4-95ed-4a1765196ce2@c7f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bocanegra Carme\, Rodrigo\nObservations: False\nExam: False
-DTEND:20240930T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240930T143000Z
-SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:fa980b2d-ca75-4b78-8a0b-d2247c525271@fa98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250131T173000Z
-LOCATION:No Location
-DTSTART:20250131T153000Z
-SUMMARY:Examen de Entornos Virtuales en aulas  - (Tipo Trabajo)
-UID:4abe4c0c-05c5-4ebd-9f37-6a8d8d6f8261@4abe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250411T110000Z
-LOCATION:No Location
-DTSTART:20250411T060000Z
-SUMMARY:Examen de Trabajo Fin de Máster  en aulas  - (Tipo Trabajo\, Depósito: 01/04/2024 Defensas: del 7 al 11 abril 2025)
-UID:4d788371-f5cb-4cbe-8e21-697f4a99afe2@4d78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250131T210000Z
-LOCATION:No Location
-DTSTART:20250131T200000Z
-SUMMARY:Examen de Trabajo Fin de Máster  en aulas  - (Tipo Trabajo\, Depósito: 20/01/2025 Defensa: del 24 al 31 de enero de 2025)
-UID:98df86da-23be-43f6-bf5b-9361d8a028a2@98df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250208T113000Z
-LOCATION:No Location
-DTSTART:20250208T083000Z
-SUMMARY:Examen de Diseño y Proyectos de Sistemas de Producción en aulas  - (Tipo Escrito-Práctico)
-UID:100d4f0c-eb21-4902-84ae-22a77beff115@100d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
-DTEND:20250408T190000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250408T160000Z
-SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:9c27b2c7-9f41-44de-878b-d23503d7a7bb@9c27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Guerrero Arias\, Ismael\nObservations: False\nExam: False
-DTEND:20240917T184000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240917T150000Z
-SUMMARY:Innovación y Emprendimiento - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:99ea383d-c4b8-4e5b-8594-120743d3d6cf@99ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Risquez Aguilar\, Carlos José\nObservations: False\nExam: False
-DTEND:20241219T170000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241219T150000Z
-SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:a2866a2d-a1f3-4d1f-b646-48fc3a238606@a286.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
-DTEND:20250527T190000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250527T160000Z
-SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:9c02100a-aa6e-404a-b865-4b2e469a016e@9c02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250205T203000Z
-LOCATION:No Location
-DTSTART:20250205T173000Z
-SUMMARY:Examen de Ingeniería del Transporte y Manutención Industrial en aulas  - (Tipo Escrito)
-UID:3a046578-b184-44d3-a960-572666e1ce12@3a04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Guerrero Arias\, Ismael\nObservations: False\nExam: False
-DTEND:20250107T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20250107T153000Z
-SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:89051b97-9494-42ec-be47-379e1a3b2606@8905.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
-DTEND:20241025T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241025T143000Z
-SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:ee86cf77-5cc2-4c34-8971-29074ece47fa@ee86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20240928T000000Z
-LOCATION:No Location
-DTSTART:20240927T190000Z
-SUMMARY:Examen de Trabajo Fin de Máster  en aulas  - (Tipo Trabajo\, Depósito: 17/09/2024 Defensa: del 23 al 27 de septiembre 2024)
-UID:deb09cc8-7fdb-4979-8405-af602274a0d8@deb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20250619T000000Z
-SUMMARY:Corpus Christi - Fiesta Local
-UID:294b0933-1996-4065-9f7d-2a3b5ec8d207@294b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
-DTEND:20241004T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241004T143000Z
-SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:2790401c-0987-4e85-b3a1-cc6d4b1892ba@2790.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Reina Luque\, Juan Antonio\nObservations: False\nExam: False
-DTEND:20241022T183000Z
-LOCATION:Aula C2.09 (Edificio Central - Campus Sevilla)
-DTSTART:20241022T143000Z
-SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula C2.09 (Edificio Central - Campus Sevilla) 
-UID:7a854063-68a7-475d-abaf-0adb40be09d3@7a85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
-DTEND:20241111T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241111T172000Z
-SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:8af20d26-c69d-4339-99d2-b4f0ab24a670@8af2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
-DTEND:20250319T200000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250319T170000Z
-SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:5ceea6b2-6150-43d6-8ca6-76dd994b5bb7@5cee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
-DTEND:20240927T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240927T143000Z
-SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:263536cb-6c09-4c3e-a677-1fe9ac4ed58f@2635.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: Prueba de evaluación continua\nProfessor: Bocanegra Carme\, Rodrigo\nObservations: True\nExam: False
-DTEND:20241104T200000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241104T180000Z
-SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:e89e3c97-f724-4d3b-981c-8fa31854cfba@e89e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250623T173000Z
-LOCATION:No Location
-DTSTART:20250623T143000Z
-SUMMARY:Examen de Organización Industrial y Gestión de la Calidad en aulas  - (Tipo Escrito-Práctico)
-UID:69630862-d831-4048-9229-dfb927c1fb83@6963.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
-DTEND:20241219T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241219T172000Z
-SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:0af12670-7447-4bea-8077-7aa6aea81cb7@0af1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
-DTEND:20241019T120000Z
-LOCATION:Aula C2.07 (Edificio Central - Campus Sevilla)
-DTSTART:20241019T080000Z
-SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula C2.07 (Edificio Central - Campus Sevilla) 
-UID:de8c298b-02ae-47b8-9fa9-a8c6456864e2@de8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
-DTEND:20241024T170000Z
-LOCATION:Aula E1.02 (Edificio E - Campus Sevilla)
-DTSTART:20241024T150000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula E1.02 (Edificio E - Campus Sevilla) 
-UID:a070db1e-8b0a-4dce-9bd0-043727cc8993@a070.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Gómez García\, Emilio Álvaro\; Garrido Fernandez\, Octavio José\nObservations: False\nExam: False
-DTEND:20241001T183000Z
-LOCATION:Aula C2.09 (Edificio Central - Campus Sevilla)
-DTSTART:20241001T143000Z
-SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula C2.09 (Edificio Central - Campus Sevilla) 
-UID:784f82e7-add4-4618-bde1-61cebd88afa7@784f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
-DTEND:20241010T170000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241010T150000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:9a4f9ea6-bebe-44ae-8499-a739b56c3983@9a4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Gómez García\, Emilio Álvaro\nObservations: False\nExam: False
-DTEND:20240911T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240911T143000Z
-SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:668f8c8e-b72a-4172-a377-38f6e708a08c@668f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
-DTEND:20250218T200000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250218T170000Z
-SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:c3658144-16f4-45cc-b133-f85ab06b5fb1@c365.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Alvarado Barrios\, Lázaro\nObservations: False\nExam: False
-DTEND:20240912T190000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240912T170000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:fa846991-4988-4a12-8702-18db01153eec@fa84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Alvarado Barrios\, Lázaro\nObservations: False\nExam: False
-DTEND:20241003T190000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241003T170000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:051eb77d-3c5a-4e7f-8d42-93b79aa11878@051e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
-DTEND:20250402T190000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250402T160000Z
-SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:821659ab-5ae5-419b-881b-1ebcee9641c2@8216.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: García Quintanilla\, Jordi\nObservations: False\nExam: False
-DTEND:20250127T193000Z
-LOCATION:Virtual (Virtual - Campus Sevilla)
-DTSTART:20250127T153000Z
-SUMMARY:Entornos Virtuales - Grupo  - Grupo A / Aula: Virtual (Virtual - Campus Sevilla) 
-UID:d9a36736-0565-48b8-87c9-cc0404d1c638@d9a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20250501T000000Z
-SUMMARY:Celebración Día del Trabajo - Fiesta Nacional
-UID:6c2d4d14-3e33-4393-b8f1-b19d44119186@6c2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bocanegra Carme\, Rodrigo\nObservations: False\nExam: False
-DTEND:20240909T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240909T143000Z
-SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:5fe0f0d0-6bc8-4df1-a37e-9e48d2d0af02@5fe0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: Prueba de evaluación continua\nProfessor: Gómez García\, Emilio Álvaro\nObservations: True\nExam: False
-DTEND:20241118T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241118T153000Z
-SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:a49ae55b-43fa-4a6d-8c15-cf4122c6db20@a49a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Moya Yoldi\, Francisco Javier\nObservations: False\nExam: False
-DTEND:20240903T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240903T143000Z
-SUMMARY:Innovación y Emprendimiento - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:79cc2ddd-1233-483d-a027-82e2748ef204@79cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250624T110000Z
-LOCATION:No Location
-DTSTART:20250624T090000Z
-SUMMARY:Examen de Entornos Virtuales en aulas  - (Tipo Trabajo)
-UID:6658ac20-fd15-4614-b125-72fee14cfcd8@6658.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Alvarado Barrios\, Lázaro\nObservations: False\nExam: False
-DTEND:20240926T190000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240926T170000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:4ce812f3-341d-4c77-9d3b-f979cceed205@4ce8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250626T200000Z
-LOCATION:No Location
-DTSTART:20250626T190000Z
-SUMMARY:Examen de Prácticas Externas en aulas  - (Tipo Trabajo)
-UID:a1be386a-8e16-49c7-b4f9-eb427f861125@a1be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Reina Luque\, Juan Antonio\nObservations: False\nExam: False
-DTEND:20241203T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241203T140000Z
-SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:49824193-ae9b-4f04-9784-0d3ced3d2c88@4982.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
-DTEND:20250305T200000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250305T170000Z
-SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:41d81020-a3d4-40f1-88af-1dfc77e3f9f1@41d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: Prueba de Evaluación Continua\nProfessor: Alvarado Barrios\, Lázaro\; Martín Sánchez\, Manuel\nObservations: True\nExam: False
-DTEND:20241109T133000Z
-LOCATION:Aula C2.07 (Edificio Central - Campus Sevilla)
-DTSTART:20241109T083000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula C2.07 (Edificio Central - Campus Sevilla) 
-UID:6ba374e1-632b-4612-9c03-586b9faa35a3@6ba3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Reina Luque\, Juan Antonio\nObservations: False\nExam: False
-DTEND:20241105T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241105T153000Z
-SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:bde15790-6739-4531-88c6-b6762f9798df@bde1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
-DTEND:20241011T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241011T143000Z
-SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:13edcb58-c8c0-49ff-b010-9b230b7df758@13ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20250507T000000Z
-SUMMARY:Feria de Abril - Fiesta Local
-UID:3c761f6a-8206-4cb5-a746-131c9790fb49@3c76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20241223T000000Z
-SUMMARY:Periodo vacacional de Navidad
-UID:3e6caaea-f6fe-4142-9b02-c848df884889@3e6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bocanegra Carme\, Rodrigo\nObservations: False\nExam: False
-DTEND:20240902T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240902T143000Z
-SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:6f24bb77-bc15-4e70-b85e-1fe2acd558fe@6f24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
-DTEND:20240905T170000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240905T150000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:7b0fb822-8409-48ad-9bba-1e2488cfe430@7b0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250625T170000Z
-LOCATION:No Location
-DTSTART:20250625T140000Z
-SUMMARY:Examen de Estrategia y Planificación Empresarial en aulas  - (Tipo Escrito-Práctico)
-UID:8e4fca01-2bd2-40c8-840b-32ec3615ec93@8e4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
-DTEND:20240920T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240920T143000Z
-SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:fc3c8cbe-aa3d-425e-83f9-4185e9b09c7b@fc3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Risquez Aguilar\, Carlos José\nObservations: False\nExam: False
-DTEND:20241202T170000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241202T150000Z
-SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:0901f143-bebc-4733-b9c9-6e2a28335277@0901.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Moya Yoldi\, Francisco Javier\nObservations: False\nExam: False
-DTEND:20240924T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240924T143000Z
-SUMMARY:Innovación y Emprendimiento - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:234623db-2622-4f94-8676-153c4b86f029@2346.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
-DTEND:20241212T183000Z
-LOCATION:Aula A2.11 (Edificio Central - Campus Sevilla)
-DTSTART:20241212T143000Z
-SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula A2.11 (Edificio Central - Campus Sevilla) 
-UID:aa940969-fd61-4254-8393-9ebd0c085be8@aa94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20250128T000000Z
-SUMMARY:Festividad de Santo Tomás de Aquino - Fiesta Comunidad Universitaria
-UID:179a4598-e477-470d-840d-1a40bae05d88@179a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Podadera Valenzuela\, Manuel\nObservations: False\nExam: False
-DTEND:20250108T180000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250108T140000Z
-SUMMARY:Visualización de datos - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:709f9fc7-b070-4585-b12d-888f81dbf0d9@709f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250624T160000Z
-LOCATION:No Location
-DTSTART:20250624T140000Z
-SUMMARY:Examen de Innovación y Emprendimiento en aulas  - (Tipo Trabajo)
-UID:c2be6ad6-6de6-4a7d-9e6e-d359930377a0@c2be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: García Quintanilla\, Jordi\nObservations: False\nExam: False
-DTEND:20241127T193000Z
-LOCATION:Aula C2.04 (Edificio Central - Campus Sevilla)
-DTSTART:20241127T153000Z
-SUMMARY:Entornos Virtuales - Grupo  - Grupo A / Aula: Aula C2.04 (Edificio Central - Campus Sevilla) 
-UID:b25b75ce-cf08-4add-8537-795ac0f1560f@b25b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250630T173000Z
-LOCATION:No Location
-DTSTART:20250630T143000Z
-SUMMARY:Examen de Diseño y Proyectos de Sistemas de Producción en aulas  - (Tipo Escrito-Práctico)
-UID:49428671-f1f7-4167-a47a-0f3826830d69@4942.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250702T170000Z
-LOCATION:No Location
-DTSTART:20250702T140000Z
-SUMMARY:Examen de Financiación de la Actividad Industrial y Tecnológica en aulas  - (Tipo Escrito-Práctico)
-UID:f32bb6a7-d8b5-4a0d-a816-ccc4ed4709e1@f32b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250603T180000Z
-LOCATION:No Location
-DTSTART:20250603T160000Z
-SUMMARY:Examen de Laboratorio de IA en aulas  - (Tipo Trabajo)
-UID:b14068d0-9367-44e7-b925-bfe0bb9e7c11@b140.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
-DTEND:20241211T193000Z
-LOCATION:Aula C2.05 (Edificio Central - Campus Sevilla)
-DTSTART:20241211T153000Z
-SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula C2.05 (Edificio Central - Campus Sevilla) 
-UID:9c809d85-0bcf-4b1f-b416-326f4b0d2e4d@9c80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20241012T000000Z
-SUMMARY:Festividad de Nuestra Señora del Pilar - Fiesta Nacional
-UID:0325638f-c215-440e-841d-cd39dd31dd24@0325.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Lozares Estany\, Ivan\nObservations: False\nExam: False
-DTEND:20241014T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241014T143000Z
-SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:bbfc58f3-b0e9-420a-828c-1fca82702cd9@bbfc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Podadera Valenzuela\, Manuel\nObservations: False\nExam: False
-DTEND:20241122T193000Z
-LOCATION:Aula C2.04 (Edificio Central - Campus Sevilla)
-DTSTART:20241122T153000Z
-SUMMARY:Visualización de datos - Grupo  - Grupo A / Aula: Aula C2.04 (Edificio Central - Campus Sevilla) 
-UID:e867e479-e4da-49a8-8e5d-908445884421@e867.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bocanegra Carme\, Rodrigo\nObservations: False\nExam: False
-DTEND:20241005T120000Z
-LOCATION:Aula C2.07 (Edificio Central - Campus Sevilla)
-DTSTART:20241005T080000Z
-SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula C2.07 (Edificio Central - Campus Sevilla) 
-UID:de8f31dd-fd0a-4b73-af89-6e4e5813373a@de8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Risquez Aguilar\, Carlos José\nObservations: False\nExam: False
-DTEND:20241210T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241210T153000Z
-SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:f76d81b0-c0c0-46c4-b42f-77572e707ccd@f76d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
-DTEND:20250318T200000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250318T170000Z
-SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:b0f27704-2f8b-4dcf-91f5-93ce70866b35@b0f2.org
+UID:e81f54d7-11e2-4f0d-9f05-fc7c3d1adf49@e81f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
@@ -781,342 +23,46 @@ DTEND:20250725T200000Z
 LOCATION:No Location
 DTSTART:20250725T190000Z
 SUMMARY:Examen de Trabajo Fin de Máster  en aulas  - (Tipo Trabajo)
-UID:2118e750-6a8a-4fef-9d11-48348c999bef@2118.org
+UID:f61c7a30-feca-47db-a93f-94cceda3f54d@f61c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Zaldivar Abreu\, Juan Luis\nObservations: False\nExam: False
-DTEND:20241007T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241007T143000Z
-SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:145aef45-1b57-44a0-b891-08e595482fb8@145a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
-DTEND:20241121T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241121T153000Z
-SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:65f4ed3d-9bdf-4e08-b505-85bf6b167e6e@65f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
-DTEND:20240926T170000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240926T150000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:2a4410b7-0f0a-410d-98a7-cef0187ad9a3@2a44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Alvarado Barrios\, Lázaro\nObservations: False\nExam: False
-DTEND:20240905T190000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240905T170000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:681088c1-6da0-4855-91d4-5a1d2c459c32@6810.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250131T120000Z
-LOCATION:No Location
-DTSTART:20250131T070000Z
-SUMMARY:Examen de Trabajo Fin de Máster en aulas  - (Tipo Trabajo\, Depósito: 20/01/2025 Defensa: del  24 al 31 de enero de 2025)
-UID:aae0aa13-1927-4a4f-9720-e6dd16e85609@aae0.org
+DESCRIPTION:Description: \nProfessor: García Quintanilla\, Jordi\nObservations: False\nExam: False
+DTEND:20250110T193000Z
+LOCATION:Aula C2.07 (Edificio Central - Campus Sevilla)
+DTSTART:20250110T153000Z
+SUMMARY:Entornos Virtuales - Grupo  - Grupo A / Aula: Aula C2.07 (Edificio Central - Campus Sevilla) 
+UID:291fd0d5-ee98-4fc3-b7d9-96416358c9d7@291f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
-DTEND:20250520T190000Z
+DTEND:20250312T200000Z
 LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250520T160000Z
+DTSTART:20250312T170000Z
 SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:e979ca75-5ba8-46f6-a727-6199a5546cbb@e979.org
+UID:68e5e38a-fb67-4cdf-b555-00ddc332ca56@68e5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
-DTEND:20240919T170000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240919T150000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:1de0e4f3-9cb0-4ccb-a10f-fab237499ae9@1de0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Guerrero Arias\, Ismael\nObservations: False\nExam: False
-DTEND:20240910T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240910T143000Z
-SUMMARY:Innovación y Emprendimiento - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:2cf5df6f-38fd-4cb1-8c6c-c4259622fa0e@2cf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250709T110000Z
-LOCATION:No Location
-DTSTART:20250709T060000Z
-SUMMARY:Examen de Trabajo Fin de Máster en aulas  - (Tipo Trabajo\, Depósito: 26/06/25 Defensa del 2 al 9 de julio de 2025)
-UID:708e12f3-6a3a-45dd-9dce-04252aa16a82@708e.org
+DESCRIPTION:Description: \nProfessor: Podadera Valenzuela\, Manuel\nObservations: False\nExam: False
+DTEND:20241204T193000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20241204T153000Z
+SUMMARY:Visualización de datos - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:785187f4-fbc6-43ba-a6a3-57a0ddfbac6a@7851.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
 LOCATION:No Location
-DTSTART:20241206T000000Z
-SUMMARY:Día de la Constitución - Fiesta Nacional
-UID:aa78dce0-c603-4f55-8ac9-5163b1e270f0@aa78.org
+DTSTART:20250619T000000Z
+SUMMARY:Corpus Christi - Fiesta Local
+UID:caea88f6-6658-4781-b1a6-d6d3a47345e3@caea.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
-DTEND:20250513T190000Z
+DTEND:20250422T190000Z
 LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250513T160000Z
+DTSTART:20250422T160000Z
 SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:210aba53-cbe4-4047-94e5-76dd2662bdd1@210a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
-DTEND:20240906T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240906T143000Z
-SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:6aa60ebb-f81f-4190-a29a-6a904305cf4d@6aa6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250207T180000Z
-LOCATION:No Location
-DTSTART:20250207T150000Z
-SUMMARY:Examen de Estrategia y Planificación Empresarial en aulas  - (Tipo Escrito-Práctico)
-UID:6034368a-b772-43a3-8eed-d8b587438061@6034.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
-DTEND:20241125T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241125T172000Z
-SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:efe2f69d-b8d6-4314-8f7c-c90c4a54f62c@efe2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
-DTEND:20241003T170000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241003T150000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:46be4aa2-dff3-47a3-a9cd-849c53ffd08d@46be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: García Quintanilla\, Jordi\nObservations: False\nExam: False
-DTEND:20241217T193000Z
-LOCATION:Aula C2.07 (Edificio Central - Campus Sevilla)
-DTSTART:20241217T153000Z
-SUMMARY:Entornos Virtuales - Grupo  - Grupo A / Aula: Aula C2.07 (Edificio Central - Campus Sevilla) 
-UID:3597a317-e89e-437a-9711-eb9257047222@3597.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Risquez Aguilar\, Carlos José\nObservations: False\nExam: False
-DTEND:20241119T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241119T153000Z
-SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:77f67688-aec6-4401-88c3-50f198353fba@77f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250625T120000Z
-LOCATION:No Location
-DTSTART:20250625T100000Z
-SUMMARY:Examen de Laboratorio de IA en aulas  - (Tipo Trabajo)
-UID:082b0182-7649-42fc-b47e-c0c0e37c165a@082b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250627T183000Z
-LOCATION:No Location
-DTSTART:20250627T143000Z
-SUMMARY:Examen de Redes Eléctricas y Generación en aulas  - (Tipo Escrito-Práctico)
-UID:f006b325-273c-47fa-9eae-5c7cb1f1428c@f006.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Barral Rivada\, Antonio\nObservations: False\nExam: False
-DTEND:20241008T180000Z
-LOCATION:Aula C2.09 (Edificio Central - Campus Sevilla)
-DTSTART:20241008T140000Z
-SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula C2.09 (Edificio Central - Campus Sevilla) 
-UID:3dba5c70-a452-4341-b22b-850a54f85474@3dba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Podadera Valenzuela\, Manuel\nObservations: False\nExam: False
-DTEND:20241115T193000Z
-LOCATION:Aula C2.04 (Edificio Central - Campus Sevilla)
-DTSTART:20241115T153000Z
-SUMMARY:Visualización de datos - Grupo  - Grupo A / Aula: Aula C2.04 (Edificio Central - Campus Sevilla) 
-UID:ab20b9da-35e0-47fc-94ff-c21093bda688@ab20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Garrido Fernandez\, Octavio José\nObservations: False\nExam: False
-DTEND:20241009T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241009T143000Z
-SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:596fbcd3-5f58-4cd0-b04a-aac24a8d1998@596f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20240927T200000Z
-LOCATION:No Location
-DTSTART:20240927T190000Z
-SUMMARY:Examen de Trabajo Fin de Máster en aulas  - (Tipo Trabajo\, Depósito: 17/09/2024 Defensa: del 23 al 27 de septiembre 2024)
-UID:e21ba956-02ba-4b85-a914-7cb1db207f75@e21b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
-DTEND:20241205T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241205T153000Z
-SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:3dffdc93-6fc8-42e3-a05b-ff4a2de0d9e1@3dff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: García Quintanilla\, Jordi\nObservations: False\nExam: False
-DTEND:20241218T193000Z
-LOCATION:Aula C2.07 (Edificio Central - Campus Sevilla)
-DTSTART:20241218T153000Z
-SUMMARY:Entornos Virtuales - Grupo  - Grupo A / Aula: Aula C2.07 (Edificio Central - Campus Sevilla) 
-UID:2dec19a4-0a3d-4429-9e10-a865adb593aa@2dec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250411T110000Z
-LOCATION:No Location
-DTSTART:20250411T060000Z
-SUMMARY:Examen de Trabajo Fin de Máster en aulas  - (Tipo Trabajo\, Depósito: 1 abril 2025 Defensa: 7 al 11 de abril de 2025)
-UID:9b760f8a-2ada-457b-aba1-0731f52ba50d@9b76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Reina Luque\, Juan Antonio\nObservations: False\nExam: False
-DTEND:20241015T183000Z
-LOCATION:Aula C2.09 (Edificio Central - Campus Sevilla)
-DTSTART:20241015T143000Z
-SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula C2.09 (Edificio Central - Campus Sevilla) 
-UID:dcd7ded0-05d0-4907-ae08-1ae5b25c9479@dcd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
-DTEND:20241202T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241202T172000Z
-SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:76c7b6ff-d56b-40d3-b350-92c64d63e3de@76c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250709T190000Z
-LOCATION:No Location
-DTSTART:20250709T180000Z
-SUMMARY:Examen de Trabajo Fin de Máster  en aulas  - (Tipo Trabajo\, Entrega de Memoria a través de Moodle)
-UID:f20ea6bc-d6e3-4f2c-9b78-7cc70c95906f@f20e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Bocanegra Carme\, Rodrigo\nObservations: False\nExam: False
-DTEND:20240918T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240918T143000Z
-SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:9e622536-a3e4-4308-b41b-8388eedaba92@9e62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Gómez García\, Emilio Álvaro\; Garrido Fernandez\, Octavio José\nObservations: False\nExam: False
-DTEND:20241002T183000Z
-LOCATION:Aula C2.09 (Edificio Central - Campus Sevilla)
-DTSTART:20241002T143000Z
-SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula C2.09 (Edificio Central - Campus Sevilla) 
-UID:1ada0d86-0984-490f-a78a-870ca5c566f4@1ada.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Podadera Valenzuela\, Manuel\nObservations: False\nExam: False
-DTEND:20241108T193000Z
-LOCATION:Aula C2.04 (Edificio Central - Campus Sevilla)
-DTSTART:20241108T153000Z
-SUMMARY:Visualización de datos - Grupo  - Grupo A / Aula: Aula C2.04 (Edificio Central - Campus Sevilla) 
-UID:4e2bcd33-a6b7-4205-afcd-9abc016a1500@4e2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
-DTEND:20250116T193000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20250116T153000Z
-SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:9e54b154-e523-40f8-baa2-1de94b9d9eb0@9e54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Gómez García\, Emilio Álvaro\nObservations: False\nExam: False
-DTEND:20241016T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241016T143000Z
-SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:66d300e4-bcdb-4fdf-9c84-d8db1621c4e3@66d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
-DTEND:20250311T200000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250311T170000Z
-SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:63a9b0b8-c222-4e9e-9f3a-d8f54f00ce39@63a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250129T200000Z
-LOCATION:No Location
-DTSTART:20250129T150000Z
-SUMMARY:Examen de Redes Eléctricas y Generación en aulas  - (Tipo Escrito\, Tiene dos partes: 16:00 Parte 01 19:00 Parte 02)
-UID:03de1be4-38f0-446b-ac8e-e70d9a0420bb@03de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
-DTEND:20241017T170000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20241017T150000Z
-SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:fc02fdb3-35c1-4263-9250-c859fc580961@fc02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Podadera Valenzuela\, Manuel\nObservations: False\nExam: False
-DTEND:20241214T120000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20241214T080000Z
-SUMMARY:Visualización de datos - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:d0f87204-17c6-4a1b-a90d-e1eae97fbbea@d0f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
-DTEND:20250401T190000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250401T160000Z
-SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:278f49f9-9fcb-4487-90bb-204d19977efe@278f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250716T190000Z
-LOCATION:No Location
-DTSTART:20250716T180000Z
-SUMMARY:Examen de Trabajo Fin de Máster en aulas  - (Tipo Trabajo\, Entrega de Memoria a través de Moodle)
-UID:e7ed77b8-e779-4205-8f72-e93aa9c32ff7@e7ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Podadera Valenzuela\, Manuel\nObservations: False\nExam: False
-DTEND:20250117T180000Z
-LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
-DTSTART:20250117T140000Z
-SUMMARY:Visualización de datos - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:812c6dc0-920a-457e-bef5-a566be3defbc@812c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250211T181500Z
-LOCATION:No Location
-DTSTART:20250211T151500Z
-SUMMARY:Examen de Visualización de datos en aulas  - (Tipo Escrito-Práctico)
-UID:7d4b96f5-e18e-488f-b803-d2856450cf4b@7d4b.org
+UID:8372d293-3e7d-4870-b018-bfb202c4a783@8372.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
@@ -1124,30 +70,7 @@ DTEND:20250429T190000Z
 LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
 DTSTART:20250429T160000Z
 SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
-UID:6da9148a-37f5-4500-af29-aa7dc7ee8f0b@6da9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
-DTEND:20250609T200000Z
-LOCATION:No Location
-DTSTART:20250609T190000Z
-SUMMARY:Examen de Prácticas Externas en aulas  - (Tipo Trabajo)
-UID:41a69020-d402-4863-b2b7-64d9595098aa@41a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
-LOCATION:No Location
-DTSTART:20250317T000000Z
-SUMMARY:Canonización de San Ignacio - Fiesta Universidad Loyola Andalucía
-UID:fc2d2576-9c4f-4d53-ba2b-77cf7c3278a2@fc2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Gómez García\, Emilio Álvaro\nObservations: False\nExam: False
-DTEND:20240904T183000Z
-LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240904T143000Z
-SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:d368ce87-1b5c-4088-8fd1-8152f699bedb@d368.org
+UID:748b37a3-b103-4f4d-bb25-cf8d2b00c481@748b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Alvarado Barrios\, Lázaro\nObservations: False\nExam: False
@@ -1155,23 +78,180 @@ DTEND:20240919T190000Z
 LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
 DTSTART:20240919T170000Z
 SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:86bea5b5-0931-4c95-b437-ef418ddc6ed0@86be.org
+UID:0968538d-df4b-4df1-8421-be9a849f9840@0968.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Garrido Fernandez\, Octavio José\nObservations: False\nExam: False
-DTEND:20240916T183000Z
+DESCRIPTION:Description: \nProfessor: Alvarado Barrios\, Lázaro\nObservations: False\nExam: False
+DTEND:20240912T190000Z
 LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20240916T143000Z
-SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:6522067b-e150-44b2-b8b1-9466b676d067@6522.org
+DTSTART:20240912T170000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:cab13ba4-dfe7-4cda-9e37-66255e88192c@cab1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Description: \nProfessor: Reina Luque\, Juan Antonio\nObservations: False\nExam: False
-DTEND:20241029T193000Z
-LOCATION:Aula C2.09 (Edificio Central - Campus Sevilla)
-DTSTART:20241029T153000Z
-SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula C2.09 (Edificio Central - Campus Sevilla) 
-UID:e1883aa6-4b90-4264-a505-e64628a2a2d9@e188.org
+DESCRIPTION:Description: \nProfessor: Bocanegra Carme\, Rodrigo\nObservations: False\nExam: False
+DTEND:20240923T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240923T143000Z
+SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:46474d1d-7b3b-419c-8f76-e3060eeb0fb2@4647.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: García Quintanilla\, Jordi\nObservations: False\nExam: False
+DTEND:20241217T193000Z
+LOCATION:Aula C2.07 (Edificio Central - Campus Sevilla)
+DTSTART:20241217T153000Z
+SUMMARY:Entornos Virtuales - Grupo  - Grupo A / Aula: Aula C2.07 (Edificio Central - Campus Sevilla) 
+UID:db29c2da-5525-4ce3-9b3e-6af9c02107e7@db29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20241223T000000Z
+SUMMARY:Periodo vacacional de Navidad
+UID:6dbe632c-1536-42cc-9278-a3de130494a9@6dbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Podadera Valenzuela\, Manuel\nObservations: False\nExam: False
+DTEND:20241108T193000Z
+LOCATION:Aula C2.04 (Edificio Central - Campus Sevilla)
+DTSTART:20241108T153000Z
+SUMMARY:Visualización de datos - Grupo  - Grupo A / Aula: Aula C2.04 (Edificio Central - Campus Sevilla) 
+UID:ca486a4c-5265-4c1c-8d07-7401672b9913@ca48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
+DTEND:20250520T190000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20250520T160000Z
+SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:eee48407-6945-4e2d-8625-273542975f2f@eee4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Alvarado Barrios\, Lázaro\nObservations: False\nExam: False
+DTEND:20241024T190000Z
+LOCATION:Aula Informática E1.08 (Edificio E - Campus Sevilla)
+DTSTART:20241024T170000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula Informática E1.08 (Edificio E - Campus Sevilla) 
+UID:a5c71faa-310d-49b9-8c3e-9b9b6fbc2068@a5c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
+DTEND:20241011T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241011T143000Z
+SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:095a983e-f8b3-4c26-8ec3-9d907b657caa@095a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20240911T000000Z
+SUMMARY:Acto de Apertura Curso 2024-2025
+UID:2d32d1b5-a46b-4e44-a3e5-2f7dfbe0c459@2d32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bocanegra Carme\, Rodrigo\nObservations: False\nExam: False
+DTEND:20240902T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240902T143000Z
+SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:bc14c18e-9d85-4e6b-89a5-c6636e06d172@bc14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
+DTEND:20241025T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241025T143000Z
+SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:8188435b-9d1c-488d-bdbb-4a0b2122c5c1@8188.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
+DTEND:20241003T170000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241003T150000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:e416bb00-2a53-4a49-8d61-190958844233@e416.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
+DTEND:20241019T120000Z
+LOCATION:Aula C2.07 (Edificio Central - Campus Sevilla)
+DTSTART:20241019T080000Z
+SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula C2.07 (Edificio Central - Campus Sevilla) 
+UID:1e6c4f03-b097-4263-b585-baff4a64242c@1e6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20250501T000000Z
+SUMMARY:Celebración Día del Trabajo - Fiesta Nacional
+UID:d78d3c60-8c30-4b89-87e9-848de57becdd@d78d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Alvarado Barrios\, Lázaro\nObservations: False\nExam: False
+DTEND:20240926T190000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240926T170000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:af276e23-e8d6-4d01-af6f-76a0fa7c2c50@af27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250211T181500Z
+LOCATION:No Location
+DTSTART:20250211T151500Z
+SUMMARY:Examen de Visualización de datos en aulas  - (Tipo Escrito-Práctico)
+UID:4c257f39-567a-4a46-8398-5d5f879323ec@4c25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bocanegra Carme\, Rodrigo\nObservations: False\nExam: False
+DTEND:20241005T120000Z
+LOCATION:Aula C2.07 (Edificio Central - Campus Sevilla)
+DTSTART:20241005T080000Z
+SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula C2.07 (Edificio Central - Campus Sevilla) 
+UID:e1bd000f-941b-49dc-8537-44377c20c250@e1bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Zaldivar Abreu\, Juan Luis\nObservations: False\nExam: False
+DTEND:20241007T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241007T143000Z
+SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:10ad778f-8034-409e-a909-f6e6b4f5291d@10ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
+DTEND:20241219T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241219T172000Z
+SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:4b80672c-2090-417a-a60e-9f9211f7b63a@4b80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250716T190000Z
+LOCATION:No Location
+DTSTART:20250716T180000Z
+SUMMARY:Examen de Trabajo Fin de Máster en aulas  - (Tipo Trabajo\, Entrega de Memoria a través de Moodle)
+UID:153e24ba-60e5-4fa3-8e90-b798a0c112da@153e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250703T183000Z
+LOCATION:No Location
+DTSTART:20250703T163000Z
+SUMMARY:Examen de Ingeniería del Transporte y Manutención Industrial en aulas  - (Tipo Escrito)
+UID:01d9a1ea-4483-4c78-84f9-d6f4a0ba6aaf@01d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
+DTEND:20240905T170000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240905T150000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:35a0393f-9dc0-4a2b-a6af-43c3a1ddc57e@35a0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
@@ -1179,22 +259,578 @@ DTEND:20241115T130000Z
 LOCATION:No Location
 DTSTART:20241115T110000Z
 SUMMARY:Examen de Organización Industrial y Gestión de la Calidad en aulas Aula C2.09  - (Tipo Escrito-Práctico)
-UID:736bcbf7-be6d-4179-9ba3-3c5fd829359f@736b.org
+UID:b122dc21-04c6-42c1-af7b-f147b587e40b@b122.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20250507T000000Z
+SUMMARY:Feria de Abril - Fiesta Local
+UID:de189e6c-f8b2-47fd-a9e3-a9709ffecfab@de18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Podadera Valenzuela\, Manuel\nObservations: False\nExam: False
+DTEND:20250117T180000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20250117T140000Z
+SUMMARY:Visualización de datos - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:a653e445-0ac2-49ec-9332-8299ffb946f5@a653.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
+DTEND:20250304T200000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20250304T170000Z
+SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:5566bc04-2f1b-40d2-9709-73dbcb28dcf1@5566.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20241101T000000Z
+SUMMARY:Festividad de Todos los Santos - Fiesta Nacional
+UID:d644fc06-8c26-4789-8a40-521f1083b6d8@d644.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20241206T000000Z
+SUMMARY:Día de la Constitución - Fiesta Nacional
+UID:2f4183c7-fd11-4aa9-a0a3-dea82e971268@2f41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: Prueba de evaluación continua\nProfessor: Bocanegra Carme\, Rodrigo\nObservations: True\nExam: False
+DTEND:20241104T200000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241104T180000Z
+SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:079f2086-6563-44e4-a793-e153ea432ff1@079f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Reina Luque\, Juan Antonio\nObservations: False\nExam: False
+DTEND:20241105T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241105T153000Z
+SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:f836adf3-53d3-4a10-81e3-f7be1ea7e212@f836.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250208T113000Z
+LOCATION:No Location
+DTSTART:20250208T083000Z
+SUMMARY:Examen de Diseño y Proyectos de Sistemas de Producción en aulas  - (Tipo Escrito-Práctico)
+UID:fed1380f-4938-4994-8900-057526854875@fed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250702T170000Z
+LOCATION:No Location
+DTSTART:20250702T140000Z
+SUMMARY:Examen de Financiación de la Actividad Industrial y Tecnológica en aulas  - (Tipo Escrito-Práctico)
+UID:9c5df661-fa13-4606-8240-811444d5ff25@9c5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: Prueba de evaluación continua\nProfessor: Gómez García\, Emilio Álvaro\nObservations: True\nExam: False
+DTEND:20241118T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241118T153000Z
+SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:d500efbd-8636-4fb2-b5d7-8716561abc8f@d500.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
+DTEND:20250527T190000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20250527T160000Z
+SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:ba962721-7808-41df-94da-5a2d1359f00a@ba96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250205T203000Z
+LOCATION:No Location
+DTSTART:20250205T173000Z
+SUMMARY:Examen de Ingeniería del Transporte y Manutención Industrial en aulas  - (Tipo Escrito)
+UID:e73c5a91-a8b8-4bcd-a7bb-5175ac295e1e@e73c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20250317T000000Z
+SUMMARY:Canonización de San Ignacio - Fiesta Universidad Loyola Andalucía
+UID:f7e31cf6-c201-4abf-a032-c509156eb01c@f7e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Moya Yoldi\, Francisco Javier\nObservations: False\nExam: False
+DTEND:20240903T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240903T143000Z
+SUMMARY:Innovación y Emprendimiento - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:8ee7bbaa-3dfb-4dde-90b3-bbdf2acf1ef9@8ee7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Reina Luque\, Juan Antonio\nObservations: False\nExam: False
+DTEND:20241112T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241112T153000Z
+SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:6a9a3dbb-6578-4675-8ced-ca34abd14cb4@6a9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Alvarado Barrios\, Lázaro\nObservations: False\nExam: False
+DTEND:20240905T190000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240905T170000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:1e879247-84fd-4386-b5cd-4b243f41b266@1e87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Alvarado Barrios\, Lázaro\nObservations: False\nExam: False
+DTEND:20241017T190000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241017T170000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:fd2b3a40-3a7d-4445-b162-47e5478eff28@fd2b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
 LOCATION:No Location
 DTSTART:20250414T000000Z
 SUMMARY:Vacaciones de Semana Santa
-UID:d396c21c-264f-416a-8657-40687369f610@d396.org
+UID:616e80ed-d100-4aa8-9f68-b84c640036bf@616e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Description: Prueba de Evaluación Continua\nProfessor: Lopez Del Cerro\, Teodoro\nObservations: True\nExam: False
-DTEND:20250113T200000Z
+DESCRIPTION:Description: \nProfessor: Gómez García\, Emilio Álvaro\; Garrido Fernandez\, Octavio José\nObservations: False\nExam: False
+DTEND:20241002T183000Z
+LOCATION:Aula C2.09 (Edificio Central - Campus Sevilla)
+DTSTART:20241002T143000Z
+SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula C2.09 (Edificio Central - Campus Sevilla) 
+UID:87c09b78-6a88-4de4-ad06-2038f9ed18cb@87c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Risquez Aguilar\, Carlos José\nObservations: False\nExam: False
+DTEND:20241126T193000Z
 LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
-DTSTART:20250113T170000Z
+DTSTART:20241126T153000Z
+SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:696d4d77-e266-498b-a429-b5912b7c43a0@696d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: García Quintanilla\, Jordi\nObservations: False\nExam: False
+DTEND:20250122T193000Z
+LOCATION:Virtual (Virtual - Campus Sevilla)
+DTSTART:20250122T153000Z
+SUMMARY:Entornos Virtuales - Grupo  - Grupo A / Aula: Virtual (Virtual - Campus Sevilla) 
+UID:a42d0f15-0f2a-4c34-a7be-5bd106f6bb0d@a42d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250130T170000Z
+LOCATION:No Location
+DTSTART:20250130T150000Z
+SUMMARY:Examen de Innovación y Emprendimiento en aulas  - (Tipo Escrito-Práctico)
+UID:7da656ec-2307-4735-b707-8b91e2244b66@7da6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250131T210000Z
+LOCATION:No Location
+DTSTART:20250131T200000Z
+SUMMARY:Examen de Trabajo Fin de Máster  en aulas  - (Tipo Trabajo\, Depósito: 20/01/2025 Defensa: del 24 al 31 de enero de 2025)
+UID:ae5687dd-808f-45fd-abf2-a3e632377187@ae56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
+DTEND:20240919T170000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240919T150000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:bff4141c-27c6-4841-b320-d42ba1219e2e@bff4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Lozares Estany\, Ivan\nObservations: False\nExam: False
+DTEND:20241014T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241014T143000Z
+SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:49fbefd9-adec-476a-bc61-cd8783867a0d@49fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
+DTEND:20250401T190000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20250401T160000Z
+SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:aaa70487-30be-4381-a0e2-94d71406f5dc@aaa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
+DTEND:20250513T190000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20250513T160000Z
+SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:17cb0e27-68ff-4f57-b1cb-371c6d556642@17cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
+DTEND:20250318T200000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20250318T170000Z
+SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:1ab9bd41-f800-4e4b-b913-07de27ddc3e6@1ab9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250203T183000Z
+LOCATION:No Location
+DTSTART:20250203T153000Z
+SUMMARY:Examen de Organización Industrial y Gestión de la Calidad en aulas  - (Tipo Escrito-Práctico)
+UID:24a33e51-b29c-4436-b8bd-591025a7cd74@24a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Gómez García\, Emilio Álvaro\nObservations: False\nExam: False
+DTEND:20240904T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240904T143000Z
+SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:ae6868e1-0365-4568-936c-aeffe115f1d4@ae68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Gómez García\, Emilio Álvaro\nObservations: False\nExam: False
+DTEND:20241016T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241016T143000Z
+SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:cbb8182d-4278-4d0b-9cee-0a064bcc4b59@cbb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
+DTEND:20241024T170000Z
+LOCATION:Aula E1.02 (Edificio E - Campus Sevilla)
+DTSTART:20241024T150000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula E1.02 (Edificio E - Campus Sevilla) 
+UID:a858e093-336e-4ed3-8d0a-26e1b1fc38d6@a858.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Reina Luque\, Juan Antonio\nObservations: False\nExam: False
+DTEND:20241022T183000Z
+LOCATION:Aula C2.09 (Edificio Central - Campus Sevilla)
+DTSTART:20241022T143000Z
+SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula C2.09 (Edificio Central - Campus Sevilla) 
+UID:48dacce9-c897-4203-8a61-50c0166ca4cb@48da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
+DTEND:20241216T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241216T153000Z
+SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:1239f0f8-edfe-4af4-b86b-8f224d7f0a5d@1239.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250624T180000Z
+LOCATION:No Location
+DTSTART:20250624T160000Z
+SUMMARY:Examen de Visualización de datos en aulas  - (Tipo Trabajo)
+UID:2e937f01-53bd-42dd-bc73-6e206905d200@2e93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Risquez Aguilar\, Carlos José\nObservations: False\nExam: False
+DTEND:20241210T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241210T153000Z
+SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:212b1fd0-0391-48a7-ac5a-c73114b1c861@212b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Reina Luque\, Juan Antonio\nObservations: False\nExam: False
+DTEND:20241029T193000Z
+LOCATION:Aula C2.09 (Edificio Central - Campus Sevilla)
+DTSTART:20241029T153000Z
+SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula C2.09 (Edificio Central - Campus Sevilla) 
+UID:f8ef4f22-26f2-4d03-a6f5-a7c8079affc4@f8ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250709T110000Z
+LOCATION:No Location
+DTSTART:20250709T060000Z
+SUMMARY:Examen de Trabajo Fin de Máster en aulas  - (Tipo Trabajo\, Depósito: 26/06/25 Defensa del 2 al 9 de julio de 2025)
+UID:a956d1b6-f430-4c06-abe0-efd2730a6c52@a956.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
+DTEND:20240920T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240920T143000Z
 SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:dd9db2ec-104e-4f81-9100-3e2066895939@dd9d.org
+UID:1ad546cc-3460-448f-8f20-afc781415572@1ad5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20240928T000000Z
+LOCATION:No Location
+DTSTART:20240927T190000Z
+SUMMARY:Examen de Trabajo Fin de Máster  en aulas  - (Tipo Trabajo\, Depósito: 17/09/2024 Defensa: del 23 al 27 de septiembre 2024)
+UID:2328d3fa-3633-44ac-943c-b6a86ac4e2ae@2328.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
+DTEND:20241111T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241111T172000Z
+SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:f23338a1-70d2-46a6-ac40-d57344c76f3b@f233.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: García Quintanilla\, Jordi\nObservations: False\nExam: False
+DTEND:20250127T193000Z
+LOCATION:Virtual (Virtual - Campus Sevilla)
+DTSTART:20250127T153000Z
+SUMMARY:Entornos Virtuales - Grupo  - Grupo A / Aula: Virtual (Virtual - Campus Sevilla) 
+UID:f08352f6-6f5f-4bc4-8c39-6f8a22d60e56@f083.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
+DTEND:20250319T200000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20250319T170000Z
+SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:895e15c3-169a-40e0-8c77-11074060e30d@895e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250624T110000Z
+LOCATION:No Location
+DTSTART:20250624T090000Z
+SUMMARY:Examen de Entornos Virtuales en aulas  - (Tipo Trabajo)
+UID:24a22422-5cba-4d59-826b-f7e8307e7612@24a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Reina Luque\, Juan Antonio\nObservations: False\nExam: False
+DTEND:20241203T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241203T140000Z
+SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:dd4fc17d-f267-40a0-889f-c62d222906ef@dd4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250623T173000Z
+LOCATION:No Location
+DTSTART:20250623T143000Z
+SUMMARY:Examen de Organización Industrial y Gestión de la Calidad en aulas  - (Tipo Escrito-Práctico)
+UID:e9f3b908-c095-4c99-ae99-f9402cdec73c@e9f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bocanegra Carme\, Rodrigo\nObservations: False\nExam: False
+DTEND:20240909T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240909T143000Z
+SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:2bdbc2fa-9b56-4311-a412-afd65e4a8da4@2bdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Garrido Fernandez\, Octavio José\nObservations: False\nExam: False
+DTEND:20240916T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240916T143000Z
+SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:3e172e00-0b9e-4b2b-b9c9-6391d71e8e34@3e17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
+DTEND:20241212T183000Z
+LOCATION:Aula A2.11 (Edificio Central - Campus Sevilla)
+DTSTART:20241212T143000Z
+SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula A2.11 (Edificio Central - Campus Sevilla) 
+UID:661fd82d-86bd-42aa-84c6-552308d713d0@661f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Reina Luque\, Juan Antonio\nObservations: False\nExam: False
+DTEND:20241015T183000Z
+LOCATION:Aula C2.09 (Edificio Central - Campus Sevilla)
+DTSTART:20241015T143000Z
+SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula C2.09 (Edificio Central - Campus Sevilla) 
+UID:9859c233-8aff-42d7-8f3f-7efd86949c14@9859.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250625T120000Z
+LOCATION:No Location
+DTSTART:20250625T100000Z
+SUMMARY:Examen de Laboratorio de IA en aulas  - (Tipo Trabajo)
+UID:0506cd75-ef1e-41d8-b1bd-e83c8a280b20@0506.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
+DTEND:20241205T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241205T153000Z
+SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:24b1086c-514c-4dc2-b46f-cdfc3fcd2993@24b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
+DTEND:20250311T200000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20250311T170000Z
+SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:fbdc015f-94bd-4aa2-904f-aa237f60f941@fbdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
+DTEND:20240912T170000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240912T150000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:aabb4d7c-4969-4da2-8410-15b6a9b21fd3@aabb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
+DTEND:20241004T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241004T143000Z
+SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:bb37adf6-e30e-43a5-a68c-6de3acdaf5d3@bb37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250207T180000Z
+LOCATION:No Location
+DTSTART:20250207T150000Z
+SUMMARY:Examen de Estrategia y Planificación Empresarial en aulas  - (Tipo Escrito-Práctico)
+UID:f2811f92-2631-4ee1-b28c-caf2ece9a805@f281.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250626T200000Z
+LOCATION:No Location
+DTSTART:20250626T190000Z
+SUMMARY:Examen de Prácticas Externas en aulas  - (Tipo Trabajo)
+UID:8825c6bc-f4b7-4a93-bb0d-9ae4ae73c565@8825.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
+DTEND:20250218T200000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20250218T170000Z
+SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:48cd54ef-1217-419d-90a5-353166f18b1a@48cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Barral Rivada\, Antonio\nObservations: False\nExam: False
+DTEND:20241008T180000Z
+LOCATION:Aula C2.09 (Edificio Central - Campus Sevilla)
+DTSTART:20241008T140000Z
+SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula C2.09 (Edificio Central - Campus Sevilla) 
+UID:42f59cfb-d134-4a1d-a7e4-32d7b0e1fca8@42f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250131T173000Z
+LOCATION:No Location
+DTSTART:20250131T153000Z
+SUMMARY:Examen de Entornos Virtuales en aulas  - (Tipo Trabajo)
+UID:3f6d090a-8573-47ac-ad91-965da8350ce9@3f6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Gómez García\, Emilio Álvaro\nObservations: False\nExam: False
+DTEND:20240925T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240925T143000Z
+SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:199922a9-0fa0-4631-9cbd-eda1fc958292@1999.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
+DTEND:20241125T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241125T172000Z
+SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:29c738af-91cd-4224-89cb-45fdce7083be@29c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bocanegra Carme\, Rodrigo\nObservations: False\nExam: False
+DTEND:20240918T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240918T143000Z
+SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:729a1fa9-39ee-49ca-8583-39493f50ec28@729a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250630T173000Z
+LOCATION:No Location
+DTSTART:20250630T143000Z
+SUMMARY:Examen de Diseño y Proyectos de Sistemas de Producción en aulas  - (Tipo Escrito-Práctico)
+UID:aeb2f393-02a5-4602-b58a-cfa87f8da51a@aeb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250624T160000Z
+LOCATION:No Location
+DTSTART:20250624T140000Z
+SUMMARY:Examen de Innovación y Emprendimiento en aulas  - (Tipo Trabajo)
+UID:ebde27f5-1658-4a5c-92e5-bdcbd8d73bbd@ebde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
+DTEND:20240906T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240906T143000Z
+SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:b9b54ba3-380c-4741-838b-825f3d470daf@b9b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
+DTEND:20241202T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241202T172000Z
+SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:261b0261-32f7-469e-9c76-c41c821757a2@261b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Guerrero Arias\, Ismael\nObservations: False\nExam: False
+DTEND:20250107T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20250107T153000Z
+SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:e2c86362-619a-4977-b0af-e9c6017ed04a@e2c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Podadera Valenzuela\, Manuel\nObservations: False\nExam: False
+DTEND:20250108T180000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20250108T140000Z
+SUMMARY:Visualización de datos - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:a2ec2f08-430b-4bbe-98aa-53bcae5aa282@a2ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Risquez Aguilar\, Carlos José\nObservations: False\nExam: False
+DTEND:20241202T170000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241202T150000Z
+SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:d042129e-a173-439d-a484-8502058f73a8@d042.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250709T190000Z
+LOCATION:No Location
+DTSTART:20250709T180000Z
+SUMMARY:Examen de Trabajo Fin de Máster  en aulas  - (Tipo Trabajo\, Entrega de Memoria a través de Moodle)
+UID:88acce3c-5756-4419-a7de-7664d7fa7a6c@88ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20240927T200000Z
+LOCATION:No Location
+DTSTART:20240927T190000Z
+SUMMARY:Examen de Trabajo Fin de Máster en aulas  - (Tipo Trabajo\, Depósito: 17/09/2024 Defensa: del 23 al 27 de septiembre 2024)
+UID:869a396f-4c69-438d-ab21-fce583f3ef5b@869a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
@@ -1202,6 +838,370 @@ DTEND:20241107T193000Z
 LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
 DTSTART:20241107T172000Z
 SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
-UID:9b127738-a610-4508-8fcd-1beb17c373a5@9b12.org
+UID:ef25baa4-0082-495a-93e3-9f28fcc89789@ef25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Risquez Aguilar\, Carlos José\nObservations: False\nExam: False
+DTEND:20241119T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241119T153000Z
+SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:d4bc6d62-0c9f-42b0-bd4d-ab3a77a552d6@d4bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
+DTEND:20240927T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240927T143000Z
+SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:d3248824-d69b-4048-bab3-5ea1341e6dad@d324.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
+DTEND:20250402T190000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20250402T160000Z
+SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:5df639d2-9b0c-4cd7-b617-742dcf055366@5df6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
+DTEND:20240926T170000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240926T150000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:1369c75e-d469-40a7-89f6-02ab6c711fec@1369.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Alvarado Barrios\, Lázaro\nObservations: False\nExam: False
+DTEND:20241003T190000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241003T170000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:5623181a-1751-437d-a4b4-c6b339ea0c21@5623.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
+DTEND:20241121T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241121T153000Z
+SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:a53c2bc6-dbb0-4b52-9996-c5dd866f3eb8@a53c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
+DTEND:20250109T193000Z
+LOCATION:Aula C2.07 (Edificio Central - Campus Sevilla)
+DTSTART:20250109T153000Z
+SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula C2.07 (Edificio Central - Campus Sevilla) 
+UID:c7f509ec-cd54-4d33-aa6d-07fffdf89aba@c7f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Podadera Valenzuela\, Manuel\nObservations: False\nExam: False
+DTEND:20241214T120000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20241214T080000Z
+SUMMARY:Visualización de datos - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:1e376142-1ab5-4eaf-810b-3fce34ec4dde@1e37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
+DTEND:20241010T170000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241010T150000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:164ca18e-3160-45b3-9f95-1525325854e8@164c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: Prueba de Evaluación Continua\nProfessor: Alvarado Barrios\, Lázaro\; Martín Sánchez\, Manuel\nObservations: True\nExam: False
+DTEND:20241109T133000Z
+LOCATION:Aula C2.07 (Edificio Central - Campus Sevilla)
+DTSTART:20241109T083000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula C2.07 (Edificio Central - Campus Sevilla) 
+UID:6028144a-77de-4cd8-bef7-c09c9496057a@6028.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20241208T000000Z
+SUMMARY:Festividad de la Inmaculada Concepción - Fiesta Autonómica
+UID:76892f78-b64f-46bb-aa24-6168a05b51f2@7689.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Lopez Del Cerro\, Teodoro\; Trigueros Gonzalez\, Miguel\nObservations: False\nExam: False
+DTEND:20240913T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240913T143000Z
+SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:0f19185d-da06-4f28-a19e-962d8c8f1114@0f19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Moya Yoldi\, Francisco Javier\nObservations: False\nExam: False
+DTEND:20240924T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240924T143000Z
+SUMMARY:Innovación y Emprendimiento - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:747097d6-6406-4a36-95c8-fb8cb8def27e@7470.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Risquez Aguilar\, Carlos José\nObservations: False\nExam: False
+DTEND:20250114T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20250114T153000Z
+SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:1110b854-24f4-4133-b4a6-95141b6b1d89@1110.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250411T110000Z
+LOCATION:No Location
+DTSTART:20250411T060000Z
+SUMMARY:Examen de Trabajo Fin de Máster en aulas  - (Tipo Trabajo\, Depósito: 1 abril 2025 Defensa: 7 al 11 de abril de 2025)
+UID:c7ec02c9-4bc9-43e4-82c1-cd947e5eea57@c7ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
+DTEND:20241211T193000Z
+LOCATION:Aula C2.05 (Edificio Central - Campus Sevilla)
+DTSTART:20241211T153000Z
+SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula C2.05 (Edificio Central - Campus Sevilla) 
+UID:d69c02a2-3442-4f0f-b8d4-0126fa9104c1@d69c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Gómez García\, Emilio Álvaro\nObservations: False\nExam: False
+DTEND:20240928T120000Z
+LOCATION:Aula C2.05 (Edificio Central - Campus Sevilla)
+DTSTART:20240928T080000Z
+SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula C2.05 (Edificio Central - Campus Sevilla) 
+UID:07bb08f0-a2ae-4bb5-9b36-f4745ad72eed@07bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Guerrero Arias\, Ismael\nObservations: False\nExam: False
+DTEND:20240910T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240910T143000Z
+SUMMARY:Innovación y Emprendimiento - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:ef68b391-af3d-43eb-a1e7-370d212bd3ac@ef68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20250228T000000Z
+SUMMARY:Día de Andalucía - Fiesta Autonómica
+UID:6bf79e17-fad1-4712-be0d-fbf5c3aa53e6@6bf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Alvarado Barrios\, Lázaro\nObservations: False\nExam: False
+DTEND:20241010T190000Z
+LOCATION:Aula Informática E1.08 (Edificio E - Campus Sevilla)
+DTSTART:20241010T170000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula Informática E1.08 (Edificio E - Campus Sevilla) 
+UID:9107f8ae-be67-4f14-8ed2-b9e1213abedf@9107.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20250128T000000Z
+SUMMARY:Festividad de Santo Tomás de Aquino - Fiesta Comunidad Universitaria
+UID:c4ab5a98-06ed-49b8-99b7-18887a0dd4a4@c4ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
+DTEND:20250225T200000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20250225T170000Z
+SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:70e47e12-cea1-4985-8bd5-d7f97b829b64@70e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250131T120000Z
+LOCATION:No Location
+DTSTART:20250131T070000Z
+SUMMARY:Examen de Trabajo Fin de Máster en aulas  - (Tipo Trabajo\, Depósito: 20/01/2025 Defensa: del  24 al 31 de enero de 2025)
+UID:929d80bd-a7d1-4d8e-91fb-64236bf571a0@929d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Bocanegra Carme\, Rodrigo\nObservations: False\nExam: False
+DTEND:20240930T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240930T143000Z
+SUMMARY:Ingeniería del Transporte y Manutención Industrial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:955d6e02-d7c4-4468-a8e5-a8dd229ec386@955d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Martín Sánchez\, Manuel\nObservations: False\nExam: False
+DTEND:20241017T170000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241017T150000Z
+SUMMARY:Redes Eléctricas y Generación - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:7175f218-71ec-43c9-b51a-8366c6aab63e@7175.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250129T200000Z
+LOCATION:No Location
+DTSTART:20250129T150000Z
+SUMMARY:Examen de Redes Eléctricas y Generación en aulas  - (Tipo Escrito\, Tiene dos partes: 16:00 Parte 01 19:00 Parte 02)
+UID:9253bbb2-7783-49f5-8edb-96847cca82ab@9253.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
+DTEND:20250305T200000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20250305T170000Z
+SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:4bc73d91-07d3-40e4-894e-74d7fa2902dc@4bc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250411T110000Z
+LOCATION:No Location
+DTSTART:20250411T060000Z
+SUMMARY:Examen de Trabajo Fin de Máster  en aulas  - (Tipo Trabajo\, Depósito: 01/04/2024 Defensas: del 7 al 11 abril 2025)
+UID:deeed99c-b214-4abe-9f8e-c4dfcd23a6a2@deee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Garrido Fernandez\, Octavio José\nObservations: False\nExam: False
+DTEND:20241009T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241009T143000Z
+SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:d2c8b18b-9df8-4b81-a0a0-15f2d7021572@d2c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250603T180000Z
+LOCATION:No Location
+DTSTART:20250603T160000Z
+SUMMARY:Examen de Laboratorio de IA en aulas  - (Tipo Trabajo)
+UID:abc2a58d-1439-4280-b82a-11431ad54897@abc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
+DTEND:20241128T193000Z
+LOCATION:Aula D1.01 (Edificio D - Campus Sevilla)
+DTSTART:20241128T153000Z
+SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula D1.01 (Edificio D - Campus Sevilla) 
+UID:ca2c6e62-41d8-42fb-8ae9-026048d45182@ca2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Gómez García\, Emilio Álvaro\nObservations: False\nExam: False
+DTEND:20240911T183000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240911T143000Z
+SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:9fd7443f-c856-431a-8fc2-77382b1b02fe@9fd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250609T200000Z
+LOCATION:No Location
+DTSTART:20250609T190000Z
+SUMMARY:Examen de Prácticas Externas en aulas  - (Tipo Trabajo)
+UID:65b09b16-ea11-40b9-b046-dd9e92afed60@65b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Podadera Valenzuela\, Manuel\nObservations: False\nExam: False
+DTEND:20241115T193000Z
+LOCATION:Aula C2.04 (Edificio Central - Campus Sevilla)
+DTSTART:20241115T153000Z
+SUMMARY:Visualización de datos - Grupo  - Grupo A / Aula: Aula C2.04 (Edificio Central - Campus Sevilla) 
+UID:7b7bbe8b-5da2-4cd0-97ee-04f102c69e4f@7b7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250627T183000Z
+LOCATION:No Location
+DTSTART:20250627T143000Z
+SUMMARY:Examen de Redes Eléctricas y Generación en aulas  - (Tipo Escrito-Práctico)
+UID:b70d6909-65ce-4593-ad9d-1b8dd2faf415@b70d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Manzano Crespo\, José María\nObservations: False\nExam: False
+DTEND:20250408T190000Z
+LOCATION:Aula Informática A-1.02 (Edificio Central - Campus Sevilla)
+DTSTART:20250408T160000Z
+SUMMARY:Laboratorio de IA - Grupo  - Grupo A / Aula: Aula Informática A-1.02 (Edificio Central - Campus Sevilla) 
+UID:5e1e0e8f-140b-4ee9-a69e-a9d353b2c0cb@5e1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Guerrero Arias\, Ismael\nObservations: False\nExam: False
+DTEND:20240917T184000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20240917T150000Z
+SUMMARY:Innovación y Emprendimiento - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:9feb0c48-f6dd-434f-a1a1-76b2a266a0be@9feb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Risquez Aguilar\, Carlos José\nObservations: False\nExam: False
+DTEND:20241219T170000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20241219T150000Z
+SUMMARY:Financiación de la Actividad Industrial y Tecnológica - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:a125b477-b877-4894-8c2f-e1782838d031@a125.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Castro Mora \, José\nObservations: False\nExam: False
+DTEND:20250116T193000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20250116T153000Z
+SUMMARY:Estrategia y Planificación Empresarial - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:cf3d4a2b-85ff-4573-9345-e65b6a0ec9a2@cf3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: True
+DTEND:20250625T170000Z
+LOCATION:No Location
+DTSTART:20250625T140000Z
+SUMMARY:Examen de Estrategia y Planificación Empresarial en aulas  - (Tipo Escrito-Práctico)
+UID:8ee02f11-b0ec-42ec-9401-f5cbb7501c04@8ee0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: García Quintanilla\, Jordi\nObservations: False\nExam: False
+DTEND:20241218T193000Z
+LOCATION:Aula C2.07 (Edificio Central - Campus Sevilla)
+DTSTART:20241218T153000Z
+SUMMARY:Entornos Virtuales - Grupo  - Grupo A / Aula: Aula C2.07 (Edificio Central - Campus Sevilla) 
+UID:97591f27-99af-48ee-a698-90cd279ec19b@9759.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: Prueba de Evaluación Continua\nProfessor: Lopez Del Cerro\, Teodoro\nObservations: True\nExam: False
+DTEND:20250113T200000Z
+LOCATION:Aula A2.12 (Edificio Central - Campus Sevilla)
+DTSTART:20250113T170000Z
+SUMMARY:Diseño y Proyectos de Sistemas de Producción - Grupo  - Grupo A / Aula: Aula A2.12 (Edificio Central - Campus Sevilla) 
+UID:0c7315a8-73f5-4f09-a9ca-5d35617973a4@0c73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: García Quintanilla\, Jordi\nObservations: False\nExam: False
+DTEND:20241127T193000Z
+LOCATION:Aula C2.04 (Edificio Central - Campus Sevilla)
+DTSTART:20241127T153000Z
+SUMMARY:Entornos Virtuales - Grupo  - Grupo A / Aula: Aula C2.04 (Edificio Central - Campus Sevilla) 
+UID:e2cf0ad8-c970-4a37-8847-02e4da3ec9b2@e2cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Podadera Valenzuela\, Manuel\nObservations: False\nExam: False
+DTEND:20241122T193000Z
+LOCATION:Aula C2.04 (Edificio Central - Campus Sevilla)
+DTSTART:20241122T153000Z
+SUMMARY:Visualización de datos - Grupo  - Grupo A / Aula: Aula C2.04 (Edificio Central - Campus Sevilla) 
+UID:21dfd67e-5110-4a80-830b-db0e181f93e8@21df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: No description\nProfessor: No professor\nObservations: False\nExam: False
+LOCATION:No Location
+DTSTART:20241012T000000Z
+SUMMARY:Festividad de Nuestra Señora del Pilar - Fiesta Nacional
+UID:3f9e60e2-ab6e-42a8-b4df-34e3d84f8607@3f9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Description: \nProfessor: Gómez García\, Emilio Álvaro\; Garrido Fernandez\, Octavio José\nObservations: False\nExam: False
+DTEND:20241001T183000Z
+LOCATION:Aula C2.09 (Edificio Central - Campus Sevilla)
+DTSTART:20241001T143000Z
+SUMMARY:Organización Industrial y Gestión de la Calidad - Grupo  - Grupo A / Aula: Aula C2.09 (Edificio Central - Campus Sevilla) 
+UID:39ec3667-82ca-47df-a91a-1c5b1032d7f9@39ec.org
 END:VEVENT
 END:VCALENDAR
